@@ -1,27 +1,22 @@
-🔢 Basic Calculator App – Streamlit
+🔢 Basic Calculator Web App using Streamlit
 
-This is a beginner-friendly calculator web application built with Streamlit. It provides a graphical interface for performing basic arithmetic operations between two integers.
+I built a simple, interactive calculator web application using Python and Streamlit. The app allows users to perform essential arithmetic operations—Addition, Subtraction, Multiplication, Division, Modulus, and Floor Division—in a clean and responsive UI.
 
-🚀 Features:
+✅ Key Features:
 
-📥 Input two integers using number fields
+Real-time number input with result display
 
-➕ Add
+Responsive buttons for each operation
 
-➖ Subtract
+Error handling for division by zero
 
-✖ Multiply
+Sidebar with title and branding image
 
-➗ Divide (with ZeroDivisionError handling)
 
-% Modulus (with ZeroDivisionError handling)
+✅ This project demonstrates my skills in:
 
-⌊⌋ Floor Division (with ZeroDivisionError handling)
+Building front-end interfaces with Streamlit
 
-🖼️ Sidebar image and title branding
+Handling user interaction and edge cases
 
-💻 Tech Stack:
-
-Python
-
-Streamlit
+Writing clean, functional Python code
