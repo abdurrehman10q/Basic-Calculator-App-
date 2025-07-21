@@ -1,5 +1,6 @@
 import streamlit as st 
 
+st.set_page_config(page_title="Basic Calculator App", page_icon="🔢")
 st.sidebar.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpGx-iqFkdUbnNGxGqqSAUg2qRHG4o4SK3g&s", width=150)
 st.sidebar.title("Basic Calculator App")
 
